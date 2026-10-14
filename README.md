@@ -1,5 +1,7 @@
 ![Automobility](./md/banner.png)
 
+> This repository is a community-maintained, unofficial build associated with JustHari01's NeoForge 1.21.1 release. The original Automobility project is maintained by [FoundationGames](https://github.com/FoundationGames/Automobility) under the MIT license; use upstream channels for upstream support.
+
 ### A Minecraft mod adding customizable vehicles.
 **Automobility is currently in BETA!** <br/>
 The mod isn't feature-complete, and any feature requests would be greatly appreciated. Discuss features on the mod's GitHub Discussions page, or in the [Discord](https://discord.gg/7Aw3y4RtY9).
@@ -51,3 +53,5 @@ All sound effects used (originals licensed under CC0) from [freesound.org](https
 - [Vuvuzela](https://freesound.org/people/nomerodin1/sounds/557277/) *by nomerodin1* <br/>
 - [small horn.wav](https://freesound.org/people/tm1000/sounds/94868/) *by tm1000* <br/>
 - [Car horn (Ford Fiesta)](https://freesound.org/people/Jokerman83/sounds/732545/) *by Jokerman83* <br/>
+
+AI disclosure: AI tools assisted with the community build and release documentation. This does not describe the upstream authors' work.
